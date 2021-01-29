@@ -4,7 +4,7 @@ This folder contains data used in examples, problem sets, etc.
 
 |File|Date added|Added by|Description|
 |---|---|---|---|
-|[atlantic_storms.csv](auto_mpg.csv)|2021-01-29|BJS|Atlantic cyclone data, extracted from NOAA's [Atlantic basin storm track data](https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html).|
+|[atlantic_storms.csv](atlantic_storms.csv)|2021-01-29|BJS|Atlantic cyclone data, extracted from NOAA's [Atlantic basin storm track data](https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html).|
 |[auto_mpg.csv](auto_mpg.csv)|2021-01-29|BJS|Automobile fuel consumption data, adapted slightly from the [original dataset](https://archive.ics.uci.edu/ml/datasets/auto+mpg).|
 |[Gainesville_weather_1960-2020.csv](Gainesville_weather_1960-2020.csv)|2020-07-21|MAG|Historical weather data for Gainesville, FL.|
 ||2018-10-11|MAG|CO-OPS__8729108__wl.csv and its metadata file CO_OPS__wl_file.md.|
