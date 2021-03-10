@@ -12,6 +12,6 @@ This folder contains data used in examples, problem sets, etc.
 |[flights.1K.csv](fligts.1K.csv), [flights.May2017-Apr2018.csv](https://www.dropbox.com/s/jizx4ijnpxmi3av/flights.May2017-Apr2018.csv?dl=0) and [flights.May2017-Apr2018.csv](https://www.dropbox.com/s/r9ygw12bp2f6aml/flights.May2018-April2020.csv?dl=0)|2018-08-29|MAG|The full files are available on DropBox, they are too large for github (861MB and 2.1GB). The [flights.1K.csv](flights.1K.csv) is the first 1,000 lines. The [metadata file](flights_metadata.md) describes the contents. |
 |[Gainesville_weather_1960-2020.csv](Gainesville_weather_1960-2020.csv)|2020-07-21|MAG|Historical weather data for Gainesville, FL.|
 |[log.tar.gz](log.tar.gz)|2018-09-03|MAG|From Lynda.com Linux Command Line Basics tutorial.|
-|winequality-red.csv | 2021-03-10|MAG| From Kaggle.com Cortez er al., 2009: [Red Wine Quality](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009?select=winequality-red.csv)
+|[winequality-red.csv](winequality-red.csv) | 2021-03-10|MAG| From Kaggle.com Cortez er al., 2009: [Red Wine Quality](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009?select=winequality-red.csv)
 
 
