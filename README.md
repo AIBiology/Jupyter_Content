@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter notebooks for the AI in Biology class ([https://aibiology.github.io/](https://aibiology.github.io/)).
 
-This class was initially developed and taught in the Spring of 2021 with Brian Stucky and Matt Gitzendanner.
+This class was initially developed and taught in the Spring of 2021 by Brian Stucky and Matt Gitzendanner.
 
 Most notebooks have a student and teacher version. The teacher version has all the code filled in, while the student version is intended for use during class where students type in code.
 
