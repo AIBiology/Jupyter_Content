@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 def plot_history(history):
     ''' Takes a model training history and plots the accuracy and loss curves'''
     plt.plot(history.history['accuracy'])
