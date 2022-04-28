@@ -1,0 +1,9 @@
+{
+ "language": "python",
+ "display_name": "ViT",
+ "argv": [
+  "~/.local/share/jupyter/kernels/vit/run.sh",
+  "-f",
+  "{connection_file}"
+ ]
+}
