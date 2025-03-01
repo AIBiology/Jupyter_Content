@@ -1,0 +1,9 @@
+{
+    "language": "python",
+    "display_name": "AI Biology",
+    "argv": [
+    "~/.local/share/jupyter/kernels/aibio/run.sh",
+    "-f",
+    "{connection_file}"
+    ]
+}
